@@ -1,0 +1,18 @@
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\bin\Debug\Randevu Sistemi.exe.config
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\bin\Debug\Randevu Sistemi.exe
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\bin\Debug\Randevu Sistemi.pdb
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu Sistemi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmGenelAdminPaneli.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu Sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu Sistemi.exe
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu Sistemi.pdb
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmLoginEkrani.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmIsyeriListesi.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmIsyeriEkleme.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmIsyeriSilme_Arama.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmIsyeriGuncelle.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmKullaniciListesi.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmYetkiliAtama.resources
+C:\Users\Lenovo\source\repos\Randevu Sistemi\Randevu Sistemi\obj\Debug\Randevu_Sistemi.frmYetkiliListesi.resources
